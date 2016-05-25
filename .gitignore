@@ -1,0 +1,6 @@
+# Ignore everything
+*
+# Other than these
+!matplotlibrc
+!.gitignore
+!README.md
