@@ -7,8 +7,6 @@ toolbar      : toolbar2   # None | classic | toolbar2
 timezone     : UTC        # a pytz timezone string, eg US/Central or Europe/Paris
 
 ### LINES
-# See http://matplotlib.sourceforge.net/api/artist_api.html#module-matplotlib.lines for more
-# information on line properties.
 lines.linewidth   : 1.0     # line width in points
 # lines.linestyle   : -       # solid line
 # lines.color       : purple
@@ -22,10 +20,6 @@ lines.linewidth   : 1.0     # line width in points
 lines.antialiased : True         # render lines in antialised (no jaggies)
 
 ### PATCHES
-# Patches are graphical objects that fill 2D space, like polygons or
-# circles.  See
-# http://matplotlib.sourceforge.net/api/artist_api.html#module-matplotlib.patches
-# information on patch properties
 patch.linewidth        : 0.5     # edge width in points
 patch.facecolor        : 348ABD # blue
 patch.edgecolor        : eeeeee
